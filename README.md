@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sunil Kumar E
-- 👀 I’m interested in Data Science, Data analystics and many
+- 👀 I’m interested in Data Science, Data analystics
 - 🌱 I’m currently learning Electronics and Communication Engineering @ Amrita Vishwa Vidyapeetham
 - 📫 Reach me @ esunilkumar24@gmail.com (or) https://www.linkedin.com/in/sunilkumar-elumalai-710080216/
 
