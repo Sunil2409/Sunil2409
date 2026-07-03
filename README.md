@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sunil+Kumar;Support+Engineer+%40+TCS;Aspiring+DevOps+%26+Python+Developer;Building+scalable+infrastructure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sunil+Kumar;System+Engineer+%7C+DevOps;Cloud+Operations+%26+Observability" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -15,12 +15,12 @@
 
 ## 👨‍💻 About Me
 
-I am a Support Engineer in the BFSI sector actively transitioning into a Python Developer and DevOps Engineer role. I focus on backend development, containerization, and automating infrastructure.
+I am a System Engineer and Team Lead focusing on cloud infrastructure, system reliability, and DevOps automation for the BFSI sector. I manage observability and infrastructure for enterprise banking platforms, ensuring SLA compliance and optimizing production workflows.
 
-*   🔭 **Currently working on:** Containerizing Python web applications and building my Money Management System.
-*   🌱 **Currently learning:** Advanced DevOps tools (Docker, Kubernetes, Terraform) and Python data structures.
-*   👯 **Open to collaborate on:** Any Python backend projects or DevOps infrastructure automation.
-*   💬 **Ask me about:** Python, Django, Docker, Ansible, and transitioning from Support to DevOps.
+*   **Enterprise Scale:** Lead a 12-member team overseeing system reliability, monitoring, and deployments across a 12-microservice architecture.
+*   **Observability:** Operate the full stack (Datadog, Kibana, CloudWatch) for real-time health visibility, SLI/SLO alerting, and distributed log tracing.
+*   **Automation:** Develop Python and Shell tooling (integrating LLM APIs and Playwright) to eliminate manual operational reporting and automate critical workflows.
+*   **Infrastructure:** Administer AWS (ECS, S3, RDS, Lambda, DynamoDB) and Kubernetes environments, handling capacity tuning and configuration management.
 
 ---
 
@@ -29,33 +29,26 @@ I am a Support Engineer in the BFSI sector actively transitioning into a Python 
 **Languages & Frameworks**
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,java,django,fastapi" alt="Languages and Frameworks" />
+  <img src="https://skillicons.dev/icons?i=python,bash,powershell,django,java,postgres,redis" alt="Languages and Frameworks" />
 </a>
 
-**DevOps & Infrastructure**
+**Cloud, DevOps & Observability**
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,aws,linux,git,github" alt="DevOps Tools" />
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,kafka,linux,ubuntu,jenkins,githubactions" alt="DevOps Tools" />
 </a>
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Personal Projects
+
+While my primary work is enterprise-proprietary, here are a few personal projects I build to experiment with new frameworks and development patterns:
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Money Management System](https://github.com/Sunil2409/money-management-system)** | A personal finance tracker designed for AWS integration (RDS/DynamoDB). | Python, AWS |
 | **[Weather Dashboard](https://github.com/Sunil2409/weather-dashboard)** | Real-time weather application leveraging the OpenWeatherMap API. | Python, Django |
-| **[Django Calculator](https://github.com/Sunil2409/Django_Calculator)** | A web-based calculator demonstrating backend logic handling and routing. | Python, Django |
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sunil2409&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunil2409&layout=compact&theme=transparent&hide_border=true&title_color=2196F3" alt="Top Languages" width="48%" />
-</div>
+| **[Django Calculator](https://github.com/Sunil2409/Django_Calculator)** | A web-based application demonstrating backend logic handling and routing. | Python, Django |
 
 ---
 
