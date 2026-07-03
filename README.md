@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I am a System Engineer and Team Lead focusing on cloud infrastructure, system reliability, and DevOps automation for the BFSI sector. I manage observability and infrastructure for enterprise banking platforms, ensuring SLA compliance and optimizing production workflows.
+I am a Assistant System Engineer and Team Lead focusing on cloud infrastructure, system reliability, and DevOps automation for the BFSI sector. I manage observability and infrastructure for enterprise banking platforms, ensuring SLA compliance and optimizing production workflows.
 
 *   **Enterprise Scale:** Lead a 12-member team overseeing system reliability, monitoring, and deployments across a 12-microservice architecture.
 *   **Observability:** Operate the full stack (Datadog, Kibana, CloudWatch) for real-time health visibility, SLI/SLO alerting, and distributed log tracing.
